@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "gwiennArtifact",
+        "name": "Gwienn's Artifact",
+        "description": "Test Mod",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Gwienn"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
