@@ -1,6 +1,6 @@
 [
     {
-        "modid": "gwiennArtifact",
+        "modid": "gwienn_artifact",
         "name": "Gwienn's Artifact",
         "description": "Test Mod",
         "version": "${version}",

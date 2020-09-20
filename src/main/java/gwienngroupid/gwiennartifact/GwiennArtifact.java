@@ -17,7 +17,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 )
 public class GwiennArtifact {
 
-    public static final String MOD_ID = "gwiennArtifact";
+    public static final String MOD_ID = "gwienn_artifact";
     public static final String MOD_NAME = "Gwienn's Artifact";
     public static final String VERSION = "0.1-ALPHAALPHA";
 
